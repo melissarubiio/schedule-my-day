@@ -9,6 +9,7 @@ This app is designed to allow the user to plan out their day using a scheduler. 
 - [Collaborators](#Collaborators)
 ## Mock-up
 ![mainscreen](/images/scheduler-ss.png)
+![localstorage](/images/local-storage.png)
 ## Links
 ![]()
 ## Username
