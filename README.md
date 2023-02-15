@@ -11,7 +11,8 @@ This app is designed to allow the user to plan out their day using a scheduler. 
 ![mainscreen](/images/scheduler-ss.png)
 ![localstorage](/images/local-storage.png)
 ## Links
-![]()
+- [Deployed Link](https://melissarubiio.github.io/schedule-my-day/)
+- [Github Link](https://github.com/melissarubiio/schedule-my-day#Links)
 ## Username
 GitHub Username: [melissarubiio](https://github.com/melissarubiio)
 ## Collaborators
