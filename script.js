@@ -14,7 +14,7 @@ var newHour =function(){
         if(hourChosen > i){
             $(data).addClass("past");
         }
-         else if (currentHour === i){
+        else if (hourChosen === i){
             $(data).addClass("present");
         }else{
             $(data).addClass("future")
